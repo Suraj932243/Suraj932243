@@ -1,6 +1,6 @@
 # Suraj Shivankar
 
-Email: surajshivankar90@gmail.com | [Portfolio](https://suraj-shivankar.netlify.app) | [LinkedIn](https://linkedin.com/in/suraj-shivankar-779a7b290) | [GitHub](https://github.com/Suraj932243)
+Email: surajshivankar315@gmail.com | [Portfolio](https://suraj-shivankar.netlify.app) | [LinkedIn](https://www.linkedin.com/in/suraj-shivankar-80645727a/) | [GitHub](https://github.com/Suraj932243)
 
 I'm a Data Engineer based in Pune, India, graduating from Rajarambapu Institute of Technology in 2026 with a B.Tech in Computer Engineering (CGPA: 7.76). I specialise in building cloud-native data pipelines on Azure and AWS using PySpark, Databricks, and Delta Lake — including real-time streaming systems, serverless ELT workflows, and Medallion Architecture data flows from scratch.
 
@@ -91,8 +91,8 @@ I'm a Data Engineer based in Pune, India, graduating from Rajarambapu Institute 
 
 ## Contact
 
-**Email:** surajshivankar90@gmail.com  
-**LinkedIn:** https://linkedin.com/in/suraj-shivankar-779a7b290  
+**Email:** surajshivankar315@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/suraj-shivankar-80645727a/
 **Portfolio:** https://suraj-shivankar.netlify.app  
 **Location:** Pune, Maharashtra, India
 
